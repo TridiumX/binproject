@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: me.probin.bin
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, config4k, flyway, gradle, graphql, http-client, jackson-databind, junit, kotlin, kotlin-application, kotlin-build, kotlin-extension-functions, logback, micronaut-build, mongo-reactive, netty-server, readme, shade, testcontainers]
